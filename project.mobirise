@@ -53,8 +53,8 @@
       }
     ],
     "publishEditFolder": true,
-    "favicon": false,
-    "mbrsiteDomain": "b8ecsgfs8f",
+    "favicon": "@PROJECT_PATH@/assets/images/img-7510.png",
+    "mbrsiteDomain": "jrmwfgkaf8",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -65,7 +65,8 @@
     "gdpr": false,
     "uniqCompNum": 5,
     "versionPublish": "5.9.18",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
